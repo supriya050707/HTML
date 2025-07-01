@@ -79,5 +79,5 @@
 </html>
 
 ## output
-![alt text](<Screenshot 2025-07-01 125624.png>)!
-[alt text](<Screenshot 2025-07-01 131553.png>)
+![alt text](<Screenshot 2025-07-01 125624.png>)
+![alt text](<Screenshot 2025-07-01 131553.png>)
