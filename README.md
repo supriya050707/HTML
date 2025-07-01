@@ -1,12 +1,18 @@
 ## code
 
 <!DOCTYPE html>
+
 <html lang="en">
+
 <head>
+  
   <meta charset="UTF-8">
+  
   <title>Inline vs Block Elements</title>
+  
   <style>
-    body {
+   
+   body {
       font-family: Arial, sans-serif;
       margin: 20px;
     }
